@@ -1,5 +1,5 @@
 /*Napisz program, ktory policzy sume wszystkich wielokrotnosci liczb 3 lub 5 mniejszych od 1000.
- Program ma za zadanie zwróciæ SUMÊ wszystkich liczb naturalnych mniejszych od 1000, które s¹ podzielne przez 3 lub 5.*/
+ Program ma za zadanie zwrÃ³ciÄ‡ SUMÄ˜ wszystkich liczb naturalnych mniejszych od 1000, ktÃ³re sÅ¡ podzielne przez 3 lub 5.*/
 
 #include<iostream>
 using namespace std;
